@@ -1,2 +1,0 @@
-# testinput
-Created with CodeSandbox
